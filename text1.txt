@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is EE07-0648
-
- Directory of C:\Users\Becool\Desktop\myProject
-
-12/25/2022  11:25 PM    <DIR>          .
-12/25/2022  11:25 PM    <DIR>          ..
-12/25/2022  11:25 PM                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  50,706,411,520 bytes free
+change 1
